@@ -1,7 +1,8 @@
 {
   "name": "Diet App",
   "short_name": "Diet App",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0E1117",
   "theme_color": "#0E1117",
