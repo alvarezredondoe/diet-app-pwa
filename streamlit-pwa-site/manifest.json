@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "MyApp",
+  "name": "Diet App",
+  "short_name": "Diet App",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0E1117",
