@@ -3,8 +3,8 @@ const CONFIG = {
     cacheVersion: "v1",
 
     // General App Info
-    appName: "My App",
-    appShortName: "MyApp",
+    appName: "Diet App",
+    appShortName: "Diet App",
     
     // Iframe Config
     iframeUrl: "https://diet-mobile-app-paramo.streamlit.app/#total?embed=true",
